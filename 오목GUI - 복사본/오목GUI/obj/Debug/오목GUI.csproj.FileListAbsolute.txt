@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\3-1\객체지향 - 대머리\오목GUI\오목GUI\bin\Debug\오목GUI.exe.config
+C:\Users\Administrator\Desktop\3-1\객체지향 - 대머리\오목GUI\오목GUI\bin\Debug\오목GUI.exe
+C:\Users\Administrator\Desktop\3-1\객체지향 - 대머리\오목GUI\오목GUI\bin\Debug\오목GUI.pdb
+C:\Users\Administrator\Desktop\3-1\객체지향 - 대머리\오목GUI\오목GUI\obj\Debug\오목GUI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\3-1\객체지향 - 대머리\오목GUI\오목GUI\obj\Debug\오목GUI.Form1.resources
+C:\Users\Administrator\Desktop\3-1\객체지향 - 대머리\오목GUI\오목GUI\obj\Debug\오목GUI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\3-1\객체지향 - 대머리\오목GUI\오목GUI\obj\Debug\오목GUI.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\3-1\객체지향 - 대머리\오목GUI\오목GUI\obj\Debug\오목GUI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\3-1\객체지향 - 대머리\오목GUI\오목GUI\obj\Debug\오목GUI.exe
+C:\Users\Administrator\Desktop\3-1\객체지향 - 대머리\오목GUI\오목GUI\obj\Debug\오목GUI.pdb
